@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather' , serif;
+  background-color:#E4F9F5;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 50px;
+  margin-top: 25px;
+  font-family: 'Sacramento', serif;
+}
+h2 {
+  font-family: 'Montserrat', serif;
+}
+h3 {
+  font-family: 'Montserrat', serif;
+}
+.top_container {
+  background-color:#E4F9F5;
+  padding-top: 150px;
+  position: relative;
+}
+.top-cloud {
+   height: 80px;
+   margin-bottom: 40px;
+   margin-top: 25px;
+   position: absolute;
+   right: 260px;
+   top: 50px;
+}
+.bottom-cloud {
+  height: 80px;
+  margin-bottom: 40px;
+  position: absolute;
+  left: 260px;
+  bottom: 300px;
+}
+.student {
+  font-size: 19px;
+  color: #66BFBF;
+  font-weight: lighter;
+  margin-bottom: 55px;
+}
+.pic {
+  height: 200px;
+  border-radius: 100%;
+}
+
+
+.middle-container{
+  background-color:#E4F9F5;
+  padding-top: 80px;
+  position: relative;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width:7%;
+}
+.hello {
+  position: relative;
+  right: 115px;
+}
+.skills {
+  padding-top: 20px;
+  text-align: left;
+  position: relative;
+  left: 250px;
+}
+
+.computer {
+    height: 220px;
+    padding-left:210px;
+    width: 250px;
+}
+.linguistics {
+  height: 220px;
+  width: 250px;
+  padding-left: 300px;
+  padding-right: 50px;
+}
+
+.language-table {
+  padding-top: 20px;
+  padding-bottom: 15px;
+  padding-left: 100px;
+}
+.hobbies {
+  padding-left: 400px;
+}
+.education {
+  text-align: left;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+.projects {
+  padding-left: 540px;
+}
+.awards {
+  text-align: left;
+  padding-left: 50px;
+}
+.bottom-container {
+  background-color:#E4F9F5;
+  padding-top: 10px;
+}
